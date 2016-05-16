@@ -1,0 +1,3 @@
+Документация проекта Metapractice
+
+Последняя версия: http://metapractice.readthedocs.io/ru/latest/
