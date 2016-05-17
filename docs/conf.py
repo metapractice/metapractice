@@ -155,10 +155,11 @@ html_static_path = ['_static']
 html_title = u"{}, версия {}".format(project, release)
 html_short_title = u"Корень"
 html_sidebars = {
-    '**': ['globaltoc.html', 'searchbox.html', 'sourcelink.html'],
+    '**': ['globaltoc.html', 'quicklinks.html', 'searchbox.html', 'sourcelink.html'],
 }
 html_theme_options = {
-    'linktotheme': False
+    'linktotheme': False,
+    'sidebarwidth': '20rem'
 }
 
 
