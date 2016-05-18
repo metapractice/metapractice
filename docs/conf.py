@@ -15,7 +15,7 @@
 import sys
 import os
 
-sys.path.insert(0, os.path.abspath('_ext'))
+sys.path.insert(0, os.path.abspath('../_ext'))
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -33,7 +33,7 @@ sys.path.insert(0, os.path.abspath('_ext'))
 extensions = ['edit_on_github']
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = [os.path.abspath('../_templates')]
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
