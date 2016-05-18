@@ -19,7 +19,7 @@
 
 Кратко:
 
-* Пишем текст, чтобы он красиво отображался (вот `исходный код </_sources/technical/site.txt>`_ данной страницы)
+* Пишем текст, чтобы он красиво отображался (вот `исходный код <https://raw.githubusercontent.com/metapractice/metapractice/master/docs/technical/site.rst>`_ данной страницы)
 * `Регистрируемся <https://github.com/join>`_ на ГитХабе
 * Устанавливаем `графический git-клиент <https://desktop.github.com/>`_
 
